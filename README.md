@@ -15,3 +15,5 @@ This project is a responsive image carousel built with Swiper.js, featuring cust
 
 💼 Contact me on linkedin. [Linkedin](https://www.linkedin.com/in/adityamamta/) <br>
 adityamamta4@gmail.com
+
+![preview img](img/carousel-mockup.png)
